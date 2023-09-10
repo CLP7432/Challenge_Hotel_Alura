@@ -98,13 +98,7 @@ y como podemos ver, se guarda correctamente la reservacion con su respectivo hue
    ![image](https://github.com/CLP7432/Challenge_Hotel_Alura/assets/121730557/169f73fa-3854-4d2d-b99f-54098858cf3a) 
 
    
-   Veamos si realmente se ah cambiado en la base de datos
-
-   ![image](https://github.com/CLP7432/Challenge_Adrian_hotelalura/assets/121730557/60e3081d-7841-4b68-8b1d-8758d0976965)
-
-   
-
-
+  
    Ya vimos como Crear y Actualizar informacion, ahora vamos a eliminar una reservación. Este programa cuenta con una eliminacion en cascada,
    es decir, al momento de eliminar una reservacion, en automatico tambien se elimina el huesped que estaba vinculado con esa reservacion. 
 
