@@ -14,9 +14,13 @@ CREATE DATABASE hotel_alura;
 Copia y pega el codigo anterior para crear la base de datos.
 
 
+
+
 Antes de ejecutar la aplicación Hotel Alura, es fundamental crear la base de datos correspondiente. Para facilitar este proceso, hemos proporcionado la siguiente consulta SQL que puede ejecutar en su administrador de bases de datos favorito, ya sea Workbench o mediante phpMyAdmin. Simplemente copie y pegue el siguiente código en su administrador y proceda a ejecutarlo:
 
-![Uploading image.png…]()
+![image](https://github.com/CLP7432/Challenge_Hotel_Alura/assets/121730557/4ffb63de-0395-4806-ab17-7905f72c549c)
+
+
 
 
 La base de datos se entrega preconfigurada con un usuario de acceso predeterminado: "usuario" con la contraseña "admin".
