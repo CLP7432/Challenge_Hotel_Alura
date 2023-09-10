@@ -37,6 +37,7 @@ A continuación, le indicamos los pasos a seguir para importar el proyecto Java 
    ![image](https://github.com/CLP7432/Challenge_Hotel_Alura/assets/121730557/b3fc7074-341f-415b-8380-a06d757696d6)
 
 
+
    ![image](https://github.com/CLP7432/Challenge_Adrian_hotelalura/assets/121730557/1fe46040-3556-434c-9053-c37741d1bc2a)
 
 
