@@ -12,7 +12,7 @@ Como requisito necesitas tener creada una base de datos con la siguiente instruc
 CREATE DATABASE hotel_alura; 
 
 Copia y pega el codigo anterior para crear la base de datos.
-
+ 
 La aplicación ya cuenta con un codigo para crear las tablas para su correspondiente uso, en este caso solo es necesario crear la base de datos.
 
 ## Importación del Proyecto Java
