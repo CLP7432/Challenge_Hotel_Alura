@@ -93,7 +93,7 @@ y como podemos ver, se guarda correctamente la reservacion con su respectivo hue
    
    ![image](https://github.com/CLP7432/Challenge_Adrian_hotelalura/assets/121730557/63a63085-5563-43bf-a056-860d07830027)
 
-   Y el campo ha sido modificado con exito.
+   Y el campo ha sido modificado con exito. 
    
    ![image](https://github.com/CLP7432/Challenge_Hotel_Alura/assets/121730557/169f73fa-3854-4d2d-b99f-54098858cf3a) 
 
