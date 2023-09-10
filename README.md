@@ -34,6 +34,9 @@ A continuación, le indicamos los pasos a seguir para importar el proyecto Java 
 
 2. Una vez realizados los cambios en el "Connection Factory", estará listo para ejecutar el programa. Para ello, diríjase al paquete `com.latam.alura.main` y ejecute el método principal. La aplicación estará completamente configurada y lista para su uso.
 
+   ![image](https://github.com/CLP7432/Challenge_Hotel_Alura/assets/121730557/b3fc7074-341f-415b-8380-a06d757696d6)
+
+
    ![image](https://github.com/CLP7432/Challenge_Adrian_hotelalura/assets/121730557/1fe46040-3556-434c-9053-c37741d1bc2a)
 
 
