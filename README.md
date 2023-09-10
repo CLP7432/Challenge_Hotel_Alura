@@ -84,9 +84,10 @@ y como podemos ver, se guarda correctamente la reservacion con su respectivo hue
 
    Basta con dar doble cick en el campo a modificar y cambiar el valor, despues precionar la tecla "Enter" y por ultimo dar click en el botn de "Modificar"
 
-   Cambiemos el nombre de "Marco" por "Adrian"
+   Cambiemos el nombre de "Marco" por "Marco Uriel"
 
-   ![image](https://github.com/CLP7432/Challenge_Adrian_hotelalura/assets/121730557/e585daa8-d91b-44c9-8bd7-2ee735bc0e4c)
+  ![image](https://github.com/CLP7432/Challenge_Hotel_Alura/assets/121730557/ddf0bbb6-bc76-4eff-b8a1-333053e18097) 
+
 
    Despues de precionar "Enter" y dar Click en "Modificar"
    
@@ -94,8 +95,9 @@ y como podemos ver, se guarda correctamente la reservacion con su respectivo hue
 
    Y el campo ha sido modificado con exito.
    
-   ![image](https://github.com/CLP7432/Challenge_Adrian_hotelalura/assets/121730557/55d61cce-24c7-4beb-a08e-f120f3922306)
+   ![image](https://github.com/CLP7432/Challenge_Hotel_Alura/assets/121730557/169f73fa-3854-4d2d-b99f-54098858cf3a) 
 
+   
    Veamos si realmente se ah cambiado en la base de datos
 
    ![image](https://github.com/CLP7432/Challenge_Adrian_hotelalura/assets/121730557/60e3081d-7841-4b68-8b1d-8758d0976965)
