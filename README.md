@@ -104,11 +104,16 @@ y como podemos ver, se guarda correctamente la reservacion con su respectivo hue
 
    -   Primero seleccione la reservacion a eliminar dando click.
    -   
-      ![image](https://github.com/CLP7432/Challenge_Adrian_hotelalura/assets/121730557/8f2b0d47-8565-42db-a0bb-f675e6f7c0bc)
+     ![image](https://github.com/CLP7432/Challenge_Hotel_Alura/assets/121730557/74dbb282-0d2c-424d-8ec3-49735458cbe7)
+
+
    
    -   El campo debe cambiar de color a un tono azulado, ahora precione el boton "Eliminar"
      
-   ![image](https://github.com/CLP7432/Challenge_Adrian_hotelalura/assets/121730557/ce64b169-1242-4a4b-b746-3796929e2689)
+
+  ![image](https://github.com/CLP7432/Challenge_Hotel_Alura/assets/121730557/ef4908b0-6e1e-4c60-b390-8bb951f8c36e) 
+
+
 
    Y ambos campos se eliminaran de la base de datos y de la tabla de la aplicación
 
