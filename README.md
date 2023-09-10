@@ -9,7 +9,7 @@ Primeramente, tendremos que tener el MYSQL de tu preferencia instalado y corrien
 Como requisito necesitas tener creada una base de datos con la siguiente instrucción:
 
 -- Creando base de datos.
-CREATE DATABASE hotel_alura;
+CREATE DATABASE hotel_alura; 
 
 Copia y pega el codigo anterior para crear la base de datos.
 
